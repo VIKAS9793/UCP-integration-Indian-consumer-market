@@ -74,7 +74,6 @@ Complete purchase
 
 ## Persona 2: Ramesh — Trust-First Buyer
 
-![Persona Cards](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_cards.png)
 
 ### Profile
 - **Age:** 45
@@ -131,7 +130,6 @@ Pays cash
 
 ## Persona 3: Arjun — D2C Repeat Buyer
 
-![Persona Cards](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_cards.png)
 
 ### Profile
 - **Age:** 32
@@ -184,7 +182,6 @@ Purchase complete in 30 seconds
 
 ## Persona 4: Meena — SMB Merchant Owner
 
-![Persona Cards](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_cards.png)
 
 ### Profile
 - **Age:** 38
