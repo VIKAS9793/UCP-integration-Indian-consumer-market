@@ -17,7 +17,7 @@
 
 ## Persona 1: Priya — Tier-2 Value Buyer
 
-![Priya Persona Card](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_priya.png)
+![Persona Cards](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_cards.png)
 
 ### Profile
 - **Age:** 28
@@ -74,7 +74,7 @@ Complete purchase
 
 ## Persona 2: Ramesh — Trust-First Buyer
 
-![Ramesh Persona Card](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_ramesh.png)
+![Persona Cards](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_cards.png)
 
 ### Profile
 - **Age:** 45
@@ -131,7 +131,7 @@ Pays cash
 
 ## Persona 3: Arjun — D2C Repeat Buyer
 
-![Arjun Persona Card](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_arjun.png)
+![Persona Cards](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_cards.png)
 
 ### Profile
 - **Age:** 32
@@ -184,7 +184,7 @@ Purchase complete in 30 seconds
 
 ## Persona 4: Meena — SMB Merchant Owner
 
-![Meena Persona Card](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_meena.png)
+![Persona Cards](https://raw.githubusercontent.com/VIKAS9793/UCP-integration-Indian-consumer-market/main/assets/persona_cards.png)
 
 ### Profile
 - **Age:** 38
