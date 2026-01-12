@@ -4,6 +4,9 @@
 
 [![Watch Case Study Walkthrough](https://img.shields.io/badge/Watch%20Video-Case%20Study%20Walkthrough-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/b-f9v6wKUp0)
 
+[![Google](https://img.shields.io/badge/Google-Case%20Study-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/) 
+[![UCP](https://img.shields.io/badge/Protocol-UCP-34A853?style=for-the-badge&logo=google-cloud&logoColor=white)](https://ucp.dev/)
+
 **Universal Commerce Protocol (UCP) for the Indian Consumer Market**
 
 An independent product management case study analyzing Google's Universal Commerce Protocol and its fit for India's ₹10+ lakh crore e-commerce ecosystem.
@@ -34,6 +37,14 @@ An independent product management case study analyzing Google's Universal Commer
 | [Metrics & Experiments](https://github.com/VIKAS9793/UCP-integration-Indian-consumer-market/blob/main/docs/07_metrics_and_experiments.md) | KPIs and A/B test design |
 | [Risks & Governance](https://github.com/VIKAS9793/UCP-integration-Indian-consumer-market/blob/main/docs/08_risks_trust_governance.md) | Trust blockers and mitigations |
 | [Sources](https://github.com/VIKAS9793/UCP-integration-Indian-consumer-market/blob/main/docs/sources.md) | Cited references with reliability ratings |
+
+---
+
+## Primary Official Sources
+
+- [Universal Commerce Protocol (ucp.dev)](https://ucp.dev)
+- [UCP Core Concepts & Documentation](https://ucp.dev/documentation/core-concepts/)
+- [Google Developers Blog: Under the Hood of UCP](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/)
 
 ---
 

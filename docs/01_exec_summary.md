@@ -4,6 +4,9 @@
 
 [![Watch Video Walkthrough](https://img.shields.io/badge/Watch%20Video-Walkthrough-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/b-f9v6wKUp0)
 
+[![Google](https://img.shields.io/badge/Google-Case%20Study-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/) 
+[![UCP](https://img.shields.io/badge/Protocol-UCP-34A853?style=for-the-badge&logo=google-cloud&logoColor=white)](https://ucp.dev/)
+
 **UCP India Market Assessment — PM One-Pager**
 
 ---
@@ -83,6 +86,14 @@ Universal Commerce Protocol (UCP) is Google's open standard launched in January 
 - High UPI adoption in customer base
 - Low COD dependency (~15-20% vs 60-65% category average)
 - Existing Shopify/Razorpay stack for faster integration
+
+---
+
+## Primary Official Sources
+
+- [Universal Commerce Protocol (ucp.dev)](https://ucp.dev)
+- [UCP Core Concepts & Documentation](https://ucp.dev/documentation/core-concepts/)
+- [Google Developers Blog: Under the Hood of UCP](https://developers.googleblog.com/under-the-hood-universal-commerce-protocol-ucp/)
 
 ---
 
