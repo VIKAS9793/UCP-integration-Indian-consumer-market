@@ -1,0 +1,14 @@
+# Assets Folder
+
+Place generated images and visual assets here.
+
+## Recommended Files
+- `banner.png` — GitHub repository banner (1280x640px)
+- `exec_hero.png` — Executive summary hero image
+- `scorecard.png` — India fit scorecard infographic
+- `personas/` — Persona card images
+- `slides/` — Slide deck visual assets
+
+---
+
+*See `TEMP_image_prompts.md` for generation prompts.*
